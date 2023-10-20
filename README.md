@@ -1,1 +1,1 @@
-# gpt3_parastoo
+# gpt3_par
